@@ -1,6 +1,6 @@
 # CART-segmentation
 
-![Sample Segmentation](sample.png)
+![Sample Segmentation](sample.png?v=2)
 
 ## Workflow Description
 
