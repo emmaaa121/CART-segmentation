@@ -1,4 +1,3 @@
-![Sample Segmentation](sample.png)
 # CART-segmentation
 
 ![Sample Segmentation](sample.png)
